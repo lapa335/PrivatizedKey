@@ -1,1 +1,1 @@
-This repository allows you to download a resource pack for my Minecraft plugin
+This repository is needed to download the resource pack for my Minecraft plugin
